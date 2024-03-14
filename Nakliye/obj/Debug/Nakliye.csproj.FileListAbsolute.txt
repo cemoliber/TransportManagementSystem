@@ -1,0 +1,37 @@
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\bin\Debug\Nakliye.exe.config
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\bin\Debug\Nakliye.exe
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\bin\Debug\Nakliye.pdb
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.csproj.AssemblyReference.cache
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Araclar.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Form1.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Main.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Properties.Resources.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.csproj.GenerateResource.cache
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.csproj.CoreCompileInputs.cache
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.exe
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.pdb
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\bin\Debug\Database1.mdf
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\bin\Debug\Database1_log.ldf
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Soforler.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Cari.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.NakliyePage.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Anasayfa.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye\Nakliye\obj\Debug\Nakliye.Dorse.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\bin\Debug\Database1.mdf
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\bin\Debug\Database1_log.ldf
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\bin\Debug\Nakliye.exe.config
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\bin\Debug\Nakliye.exe
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\bin\Debug\Nakliye.pdb
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.csproj.AssemblyReference.cache
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Anasayfa.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Araclar.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Cari.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Form1.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Main.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.NakliyePage.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Properties.Resources.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.Soforler.resources
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.csproj.GenerateResource.cache
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.csproj.CoreCompileInputs.cache
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.exe
+C:\Users\Cemalettin\Desktop\Nakliye Proje\Nakliye - Kopya (6)\Nakliye\obj\Debug\Nakliye.pdb
